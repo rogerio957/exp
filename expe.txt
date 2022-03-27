@@ -1,0 +1,19 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-1
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w541701939.m3u8
+#EXTINF:-1 tvg-2
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w1364137737.m3u8
+#EXTINF:-1 tvg-3
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w1381535112.m3u8
+#EXTINF:-1 tvg-4
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1133431505.m3u8
+#EXTINF:-1 tvg-5
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1149135029.m3u8
+#EXTINF:-1 tvg-6
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+#EXTINF:-1 tvg-7
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-8
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1961192437.m3u8
+
